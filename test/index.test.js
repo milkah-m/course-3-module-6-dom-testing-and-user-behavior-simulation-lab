@@ -1,7 +1,6 @@
 /**
  * @jest-environment jsdom
  */
-
 const {
   addElementToDOM,
   removeElementFromDOM,
